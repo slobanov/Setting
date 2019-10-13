@@ -85,6 +85,7 @@
         <mark key="^" line="126" column="12" />
         <mark key="." line="126" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/main/java/ru/otus/springframework/library/genres/flux/GenreServiceFluxImpl.java" timestamp="1570977037542" />
       <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/test/java/ru/otus/springframework/library/authors/flux/AuthorServiceFluxImplTest.java" timestamp="1554813108373">
         <mark key="[" line="74" column="57" />
         <mark key="]" line="75" column="60" />
@@ -264,6 +265,7 @@
         <mark key="^" line="267" column="19" />
         <mark key="." line="230" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/main/resources/application-mongodb.yml" timestamp="1570976898868" />
       <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/test/resources/db/changelog/data/test-user.csv" timestamp="1555327487625">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="22" />
