@@ -104,11 +104,11 @@
         <mark key="^" line="105" column="25" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/interview/src/main/java/Bar.kt" timestamp="1570967328098">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/interview/src/main/java/Bar.kt" timestamp="1570967394281">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/test/java/ru/otus/springframework/library/controllers/rest/AuthorControllerTest.java" timestamp="1555735344695">
         <mark key="[" line="34" column="0" />
@@ -856,11 +856,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>tst</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnlcPg==</text>
@@ -875,28 +875,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQmFyIHsKCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBtYWluKCkgewogICAgICAgIHZhbCBhID0gZW1wdHlNYXA8U3RyaW5nLCBTdHJpbmc+KCkKICAgICAgICB2YWwgczogU3RyaW5nID0gYS5nZXRWYWx1ZSgiMTIzIikKICAgICAgICB2YWwgcTogU3RyaW5nPyA9IGEuZ2V0KCIyMTMiKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biB0c3QoKSB7CiAgICAgICAgdmFsIGEgPSBlbXB0eU1hcDxTdHJpbmcsIFN0cmluZz4oKQogICAgfQo=</text>
+        <text encoding="base64">Y2xhc3MgQmFyIHsKCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgczogU3RyaW5nID0gYS5nZXRWYWx1ZSgiMTIzIikK</text>
+        <text encoding="base64">ICAgIGZ1biBtYWluKCkgewogICAgICAgIHZhbCBhID0gZW1wdHlNYXA8U3RyaW5nLCBTdHJpbmc+KCkKICAgICAgICB2YWwgczogU3RyaW5nID0gYS5nZXRWYWx1ZSgiMTIzIikKICAgICAgICB2YWwgcTogU3RyaW5nPyA9IGEuZ2V0KCIyMTMiKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcTogU3RyaW5nID0gYS5nZXQoIjIxMyIpCg==</text>
+        <text encoding="base64">ICAgIGZ1biB0c3QoKSB7CiAgICAgICAgdmFsIGEgPSBlbXB0eU1hcDxTdHJpbmcsIFN0cmluZz4oKQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWNlcjxTdHJpbmc+IGEK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgczogU3RyaW5nID0gYS5nZXRWYWx1ZSgiMTIzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcTogU3RyaW5nID0gYS5nZXQoIjIxMyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWNlcjxTdHJpbmc+IGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
