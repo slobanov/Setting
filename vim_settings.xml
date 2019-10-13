@@ -47,12 +47,12 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="32" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/main/java/ru/otus/springframework/library/secutiry/SecurityConfiguration.java" timestamp="1555739580879">
+      <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/main/java/ru/otus/springframework/library/secutiry/SecurityConfiguration.java" timestamp="1570967648276">
         <mark key="'" line="52" column="33" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
         <mark key="^" line="60" column="72" />
-        <mark key="." line="70" column="0" />
+        <mark key="." line="30" column="12" />
       </file>
       <file name="$USER_HOME$/projects/otus-springframework-2018-11-slobanov/l06-library-service/src/main/java/ru/otus/springframework/library/secutiry/MongoUserDetailsService.java" timestamp="1555259195920">
         <mark key="[" line="13" column="30" />
@@ -857,10 +857,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnlcPg==</text>
