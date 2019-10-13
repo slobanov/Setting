@@ -1,0 +1,15 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Scala" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin">
+        <added pattern="org.assertj.core.api.ListAssert.matches(predicate,predicateDescription)" />
+        <added pattern="org.assertj.core.api.Condition(predicate,description,args)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_PARAMETER_HINT" value="false" />
+    <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
+  </component>
+</application>

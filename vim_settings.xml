@@ -1,0 +1,612 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/SockMerchant.kt" timestamp="1564920904053">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="91" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/clouds/JumpingOnTheClouds.kt" timestamp="1565366164208">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/valley/CountingValleys.kt" timestamp="1565035231569">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/toys/MaximumToysKtTest.kt" timestamp="1567455191494">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="27" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/swap/MinimumSwaps.kt" timestamp="1566062809242">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/magazine/TwoStrings.kt" timestamp="1566658885543">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="0" column="66" />
+        <mark key="]" line="0" column="81" />
+        <mark key="." line="0" column="81" />
+        <mark key="^" line="0" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/clouds/JumpingOnClouds.kt" timestamp="1568744878891">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/bubble/CountSwapsKtTest.kt" timestamp="1567271169144">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="44" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/SockMerchantKtTest.kt" timestamp="1564940358951">
+        <mark key="[" line="0" column="82" />
+        <mark key="]" line="0" column="86" />
+        <mark key="." line="0" column="86" />
+        <mark key="^" line="0" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" timestamp="1564946908217">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+        <mark key="^" line="20" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/manipulation/ArrayManipulation.kt" timestamp="1566152325155">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/study/coursera/kotlin-for-java-dev/src/test/kotlin/ru/amai/study/coursera/kotlin/week5/gameOfFifteen/TestGameOfFifteenInitializer.kt" timestamp="1562956216270">
+        <mark key="[" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/HashMap.java" timestamp="1567265692423">
+        <mark key="'" line="474" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/ds/LeftRotation.kt" timestamp="1565438423955">
+        <mark key="[" line="0" column="74" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/anagrams/SherlockAndAnagrams.kt" timestamp="1566687294499">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/bubble/CountInversions.kt" timestamp="1567363959813">
+        <mark key="[" line="0" column="74" />
+        <mark key="]" line="0" column="78" />
+        <mark key="." line="0" column="78" />
+        <mark key="^" line="0" column="78" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribes.kt" timestamp="1567364753785">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
+      <file name="/fragment.kt" timestamp="1567258348176">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/rotation/LeftRotationKtTest.kt" timestamp="1565440548898">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/merge/CountInversionsKtTest.kt" timestamp="1567455034113">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="95" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/rotation/LeftRotation.kt" timestamp="1565441748314">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/magazine/CheckMagazine.kt" timestamp="1566655505051">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/CountingValleys.kt" timestamp="1564940348269">
+        <mark key="[" line="0" column="82" />
+        <mark key="]" line="0" column="86" />
+        <mark key="^" line="0" column="86" />
+        <mark key="." line="0" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/valley/CountingValleysKtTest.kt" timestamp="1565436044720">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar!/org/junit/jupiter/api/AssertionsKt.class" timestamp="1564941456649">
+        <mark key="'" line="21" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/fraud/ActivityNotificationsKtTest.kt" timestamp="1568558559897">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/magazine/TwoStringsKtTest.kt" timestamp="1566658896264">
+        <mark key="[" line="0" column="75" />
+        <mark key="]" line="0" column="81" />
+        <mark key="^" line="0" column="81" />
+        <mark key="." line="0" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" timestamp="1566768457989">
+        <mark key="'" line="441" column="23" />
+        <mark key="[" line="309" column="12" />
+        <mark key="]" line="309" column="16" />
+        <mark key="^" line="309" column="16" />
+        <mark key="." line="309" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQueryKtTest.kt" timestamp="1567269101032">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/bubble/CountSwaps.kt" timestamp="1567280637965">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/test-with-spring/master-package/bonus-webinars-2019/Kotlin for Java Developers. Week 5/Games/Task/src/games/gameOfFifteen/GameOfFifteenHelper.kt" timestamp="1562531107162">
+        <mark key="[" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/clouds/JumpingOnTheCloudsKtTest.kt" timestamp="1565366224247">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/manipulation/ArrayManipulationKtTest.kt" timestamp="1566152028198">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/clouds/JumpingOnCloudsKtTest.kt" timestamp="1565436705000">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/toys/MaximumToys.kt" timestamp="1567454768207">
+        <mark key="'" line="2" column="3" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/ds/HourglassSumKtTest.kt" timestamp="1566046458074">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="29" column="62" />
+        <mark key="]" line="29" column="73" />
+        <mark key="^" line="29" column="73" />
+        <mark key="." line="29" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/swap/MinimumSwapsKtTest.kt" timestamp="1566062406617">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="41" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/TestUtils.kt" timestamp="1567268881129">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/sock/SockMerchant.kt" timestamp="1565033420552">
+        <mark key="[" line="14" column="91" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/Tmp.java" timestamp="1567872563549">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="72" />
+        <mark key="." line="8" column="72" />
+        <mark key="^" line="8" column="72" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/d16c788b755be19bf8a7eace113755519a1d7182/kotlin-stdlib-1.3.31-sources.jar!/kotlin/Range.kt" timestamp="1561917090396">
+        <mark key="[" line="25" column="93" />
+      </file>
+      <file name="$USER_HOME$/projects/study/coursera/kotlin-for-java-dev/src/main/kotlin/ru/amai/study/coursera/kotlin/week5/gameOfFifteen/GameOfFifteenHelper.kt" timestamp="1569075834267">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="8" />
+        <mark key="^" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribesKtTest.kt" timestamp="1567364464764">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/sock/SockMerchantKtTest.kt" timestamp="1565436089682">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/anagrams/SherlockAndAnagramsKtTest.kt" timestamp="1566687715196">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="20" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/fraud/ActivityNotifications.kt" timestamp="1568559216231">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/magazine/CheckMagazineKtTest.kt" timestamp="1566644138217">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562959393218">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/merge/CountInversions.kt" timestamp="1567365222084">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="49" column="81" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/README.md" timestamp="1564947128896">
+        <mark key="[" line="2" column="139" />
+        <mark key="]" line="2" column="134" />
+        <mark key="." line="2" column="134" />
+        <mark key="^" line="2" column="134" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/repeated/RepeatedStringKtTest.kt" timestamp="1565436113550">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/ds/HourglassSum.kt" timestamp="1565438032619">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/Comparator.java" timestamp="1567623433431">
+        <mark key="'" line="139" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQuery.kt" timestamp="1567268362036">
+        <mark key="'" line="2" column="21" />
+        <mark key="[" line="45" column="45" />
+        <mark key="]" line="45" column="45" />
+        <mark key="^" line="45" column="45" />
+        <mark key="." line="45" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" timestamp="1567266477010">
+        <mark key="'" line="2" column="17" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/strings/TwoStringsKtTest.kt" timestamp="1566659143934">
+        <mark key="[" line="38" column="1" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="38" column="1" />
+        <mark key="^" line="38" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/.travis.yml" timestamp="1565438052497">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/arrays/ds/HourglassSum.kt" timestamp="1565367142829">
+        <mark key="[" line="0" column="66" />
+        <mark key="]" line="0" column="66" />
+        <mark key="." line="0" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTripletsKtTest.kt" timestamp="1567019121697">
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+        <mark key="^" line="31" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/study/coursera/kotlin-for-java-dev/src/main/kotlin/ru/amai/study/coursera/kotlin/week2/Mastermind.kt" timestamp="1569076510087" />
+      <file name="/fragment.java" timestamp="1568558240423">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/repeated/RepeatedString.kt" timestamp="1565366902927">
+        <mark key="[" line="11" column="66" />
+        <mark key="]" line="11" column="63" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="5" filename="$USER_HOME$/projects/test-with-spring/master-package/bonus-webinars-2019/Kotlin for Java Developers. Week 4/Rationals/Task/test/rationals/TestRationals.kt" />
+      <jump line="188" column="61" filename="$USER_HOME$/projects/study/coursera/kotlin-for-java-dev/src/test/kotlin/ru/amai/study/coursera/kotlin/week4/RationalTest.kt" />
+      <jump line="24" column="4" filename="$USER_HOME$/projects/study/coursera/kotlin-for-java-dev/src/test/kotlin/ru/amai/study/coursera/kotlin/week4/RationalTest.kt" />
+      <jump line="31" column="19" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.31/kotlin-stdlib-common-1.3.31-sources.jar!/kotlin/ranges/Ranges.kt" />
+      <jump line="6" column="5" filename="$USER_HOME$/projects/JavaSandBox/src/Main.java" />
+      <jump line="79" column="4" filename="$USER_HOME$/projects/test-with-spring/master-package/bonus-webinars-2019/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048.kt" />
+      <jump line="12" column="3" filename="$USER_HOME$/projects/test-with-spring/master-package/bonus-webinars-2019/Kotlin for Java Developers. Week 51/Games/Task/src/games/gameOfFifteen/GameOfFifteenHelper.kt" />
+      <jump line="1721" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.31/958c401b129f64de74af4b11a0894693edfa168d/kotlin-stdlib-common-1.3.31-sources.jar!/generated/_Collections.kt" />
+      <jump line="0" column="8" filename="$USER_HOME$/projects/study/coursera/kotlin-for-java-dev/src/main/kotlin/ru/amai/study/coursera/kotlin/week5/gameOfFifteen/GameOfFifteenHelper.kt" />
+      <jump line="546" column="15" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="10" column="13" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="173" column="10" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="213" column="13" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="322" column="4" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="400" column="18" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="97" column="9" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/README.md" />
+      <jump line="7" column="8" filename="$USER_HOME$/projects/study/kotlin-hackerrank/README.md" />
+      <jump line="23" column="28" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="33" column="49" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="34" column="53" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="37" column="31" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="38" column="20" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="39" column="19" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="24" column="23" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="104" column="25" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="105" column="32" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="7" column="14" filename="$USER_HOME$/projects/study/kotlin-hackerrank/pom.xml" />
+      <jump line="17" column="49" filename="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar!/org/junit/jupiter/api/AssertionsKt.class" />
+      <jump line="19" column="49" filename="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar!/org/junit/jupiter/api/AssertionsKt.class" />
+      <jump line="21" column="49" filename="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar!/org/junit/jupiter/api/AssertionsKt.class" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/repeated/RepeatedString.kt" />
+      <jump line="34" column="16" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="418" column="4" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="419" column="4" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="451" column="11" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="460" column="13" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="485" column="26" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="508" column="8" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="19" column="11" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/clouds/JumpingOnTheClouds.kt" />
+      <jump line="2" column="2" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/warmUpChallenges/clouds/JumpingOnTheClouds.kt" />
+      <jump line="520" column="12" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="36" column="17" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="121" column="16" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="305" column="16" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="308" column="10" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="438" column="18" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="439" column="18" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="440" column="33" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="494" column="29" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="309" column="16" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/ds/HourglassSumKtTest.kt" />
+      <jump line="2" column="5" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/rotation/LeftRotation.kt" />
+      <jump line="120" column="2" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribes.kt" />
+      <jump line="2" column="9" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribes.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribes.kt" />
+      <jump line="11" column="21" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribesKtTest.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribesKtTest.kt" />
+      <jump line="38" column="1" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/swap/MinimumSwaps.kt" />
+      <jump line="2" column="5" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/swap/MinimumSwaps.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/swap/MinimumSwapsKtTest.kt" />
+      <jump line="2" column="11" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/manipulation/ArrayManipulation.kt" />
+      <jump line="2" column="11" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/magazine/CheckMagazine.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/magazine/CheckMagazineKtTest.kt" />
+      <jump line="2" column="6" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/magazine/TwoStrings.kt" />
+      <jump line="5" column="68" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/anagrams/SherlockAndAnagrams.kt" />
+      <jump line="2" column="9" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/anagrams/SherlockAndAnagrams.kt" />
+      <jump line="29" column="8" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="12" column="65" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="7" column="4" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="73" column="25" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="99" column="20" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="92" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="4" column="17" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="444" column="22" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="441" column="23" filename="$USER_HOME$/projects/study/kotlin-hackerrank/detekt-config.yml" />
+      <jump line="2" column="17" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/triplets/CountTriplets.kt" />
+      <jump line="14" column="47" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQuery.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQuery.kt" />
+      <jump line="136" column="13" filename="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/HashMap.java" />
+      <jump line="1357" column="36" filename="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/HashMap.java" />
+      <jump line="1370" column="44" filename="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/HashMap.java" />
+      <jump line="454" column="26" filename="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/HashMap.java" />
+      <jump line="474" column="13" filename="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/HashMap.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQuery.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQueryKtTest.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQuery.kt" />
+      <jump line="34" column="80" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQuery.kt" />
+      <jump line="2" column="21" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQuery.kt" />
+      <jump line="21" column="4" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/TestUtils.kt" />
+      <jump line="46" column="3" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/test/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/hashmaps/queries/FreqQueryKtTest.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/bubble/CountSwaps.kt" />
+      <jump line="11" column="10" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/arrays/bribe/MinimumBribes.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/merge/CountInversions.kt" />
+      <jump line="2" column="3" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/toys/MaximumToys.kt" />
+      <jump line="139" column="20" filename="$USER_HOME$/opt/jdk1.8.0_111/src.zip!/java/util/Comparator.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/fraud/ActivityNotifications.kt" />
+      <jump line="9" column="9" filename="$USER_HOME$/projects/study/kotlin-hackerrank/src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/sorting/fraud/ActivityNotifications.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>var</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2YoaW50QXJyYXlPZigxLCAyLCAzLCA0LCA0KSwgNCwgMCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvZihpbnRBcnJheU9mKDIsIDMsIDQsIDIsIDMsIDYsIDgsIDQsIDUpLCA1LCAzKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFycmF5LnRha2Uoc2l6ZSkuZ3JvdXBpbmdCeSB7IGl0IH0uZWFjaENvdW50KCkudG9MaXN0KCkKICAgICAgICAuZm9sZChJbnRBcnJheShNQVhfRVhQRU5ESVRVUkUpKSB7IGFyciwgKHZhbHVlLCBjb3VudCkgLT4KICAgICAgICAgICAgYXJyW3ZhbHVlXSA9IGNvdW50CiAgICAgICAgICAgIGFycgogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBhbGVydHMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhciBhbGVydHMgPSAwCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>var</last-search>
+      <last-offset />
+      <last-pattern>var</last-pattern>
+      <last-replace encoding="base64">PFwvdGQ+</last-replace>
+      <last-substitute encoding="base64">PFwvdGg+</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>naming</entry>
+        <entry>std</entry>
+        <entry>kotlin</entry>
+        <entry encoding="base64">XDxhc3NlcnRUaHJvd3NcPg==</entry>
+        <entry>import</entry>
+        <entry>Imp</entry>
+        <entry>Import</entry>
+        <entry>Declarac</entry>
+        <entry>Dec</entry>
+        <entry>Mat</entry>
+        <entry encoding="base64">XDx0bXBBcnJcPg==</entry>
+        <entry>Magic</entry>
+        <entry>complex</entry>
+        <entry>loadfact</entry>
+        <entry>loadfac</entry>
+        <entry encoding="base64">XDxsb2FkRmFjdG9yXD4=</entry>
+        <entry>remo</entry>
+        <entry>add</entry>
+        <entry>compari</entry>
+        <entry>var</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/th/th/g</entry>
+        <entry encoding="base64">JzwsJz5zLzx0aD4vPHRkPi9n</entry>
+        <entry encoding="base64">JzwsJz5zLzxcL3RoPi88XC90ZD4vZw==</entry>
+        <entry>&quot;w</entry>
+        <entry>2w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>split</entry>
+        <entry>Pw</entry>
+        <entry>ww</entry>
+        <entry>wa</entry>
+        <entry>e</entry>
+        <entry>x</entry>
+        <entry>ws</entry>
+        <entry>a</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
+        <entry>w3</entry>
+        <entry>Lw</entry>
+        <entry>we</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
