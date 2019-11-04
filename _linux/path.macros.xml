@@ -1,6 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/home/slobanov/.m2/repository" />
     <macro name="KOTLIN_BUNDLED" value="/home/slobanov/.IdeaIC2019.2/config/plugins/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/home/slobanov/.m2/repository" />
+    <macro name="SONAR_TOKEN" value="05e160a4995225b631365a40d97f33cfab8306a5" />
   </component>
 </application>
