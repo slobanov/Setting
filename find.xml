@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'polovintsev-cashback-service'" />
-    <option name="defaultScopeName" value="Project 'polovintsev-cashback-service'" />
+    <option name="customScope" value="File '.../src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/search/swap/SwapNodes.kt'" />
+    <option name="defaultScopeName" value="File '.../src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/search/swap/SwapNodes.kt'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'polovintsev-cashback-service'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/kotlin/ru/amai/study/hackerrank/practice/interviewPreparationKit/search/swap/SwapNodes.kt'" />
   </component>
 </application>
