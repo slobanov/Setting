@@ -3,12 +3,13 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="f2" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="banner.txt" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping pattern="f2" type="PLAIN_TEXT" />
+      <mapping pattern="WebConstants" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
