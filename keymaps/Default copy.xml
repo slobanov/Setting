@@ -16,6 +16,9 @@
   <action id="ActivateSBTConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="ActivateTDKViewerToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="Android.TraceViewSearch">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
