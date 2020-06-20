@@ -13,6 +13,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
