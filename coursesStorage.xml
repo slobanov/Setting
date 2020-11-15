@@ -1,0 +1,16 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Assignment for Week 5 of the Coursera &lt;a href=&quot;https://www.coursera.org/learn/kotlin-for-java-developers/&quot;&gt;Kotlin for Java Developers&lt;/a&gt; course" />
+        <option name="humanLanguage" value="English" />
+        <option name="location" value="$USER_HOME$/git/Kotlin for Java Developers. Week 5" />
+        <option name="name" value="Kotlin for Java Developers. Week 5" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="tasksTotal" value="1" />
+        <option name="type" value="Coursera" />
+      </course>
+    </courses>
+  </component>
+</application>
