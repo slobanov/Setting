@@ -11,5 +11,8 @@
     </blacklists>
     <option id="SHOW_PARAMETER_HINT" value="false" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
+    <disabledLanguages>
+      <language id="kotlin" />
+    </disabledLanguages>
   </component>
 </application>
