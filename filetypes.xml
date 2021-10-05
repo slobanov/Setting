@@ -1,16 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="WebConstants" type="PLAIN_TEXT" />
+      <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="f2" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
-      <mapping pattern="f1" type="PLAIN_TEXT" />
-      <mapping pattern="WebConstants" type="PLAIN_TEXT" />
-      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="banner.txt" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
@@ -19,7 +17,8 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
